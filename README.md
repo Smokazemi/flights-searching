@@ -35,3 +35,9 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
 # flights-searching
+
+# Usage
+
+
+for using create a .env file and add the following variables
+NEXT_PUBLIC_RAPID_API_KEY = your rapid api key
